@@ -1,3 +1,7 @@
-external/GitHubClient.class
+entity/ExtractRequestBody.class
 com/laioffer/job/servlet/SearchServlet.class
+external/MonkeyLearnClient.class
+entity/ExtractResponseItem.class
+entity/Extraction.class
+external/GitHubClient.class
 com/laioffer/job/servlet/RecommendationServlet.class
